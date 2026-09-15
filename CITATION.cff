@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these resources in research, documentation, guides, or public security/GRC materials, please cite this repository or the corresponding ProcureDeal source page."
+title: "ProcureDeal Security Questionnaire Resources"
+type: dataset
+authors:
+  - name: "ProcureDeal"
+url: "https://procuredeal.com/"
+repository-code: "https://github.com/monkdapp/procuredeal-security-questionnaire-resources"
+date-released: 2026-09-16
+keywords:
+  - security questionnaire
+  - vendor due diligence
+  - GRC
+  - SaaS security
+  - AI governance
+  - customer trust
+  - security evidence
